@@ -1,0 +1,18 @@
+{
+  "language": "Solidity",
+  "sources": {
+    "STCContractOraclize.sol": {
+      "urls": [
+        "file://./STCContractOraclize.sol"
+      ]
+    }
+  },
+  "optimizer": {
+    "enabled": true
+  },
+  "outputSelection": {
+    "*": {
+      "*": ["abi", "evm.bytecode", "evm.gasEstimates"]
+    }
+  }
+}
